@@ -188,6 +188,13 @@ __custom_var_Name__=__Custom_Var_Value__
 
  - **SCX** enables you to modify results by adding filter listener throughs [spairaru.py](https://github.com/etrotech/spairaru.py) framework.
 
+<br>
+
+**SourceCodeDocumentFilter** : 
+- Contains Filters used to manage document.
+
+<br>
+
 *Example of Filter assignment*
 <details>
 <summary>long syntax</summary>
