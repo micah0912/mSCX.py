@@ -76,6 +76,8 @@
 - **SCX** will systematically retrieve custom files from **.scx** folder and application-specific folders in every directory.
 - Settings will be structured hierarchically, inheriting from their parent directories.
 
+<br>
+
 *Example Hierarchy*
 
 ```
@@ -115,6 +117,8 @@ D will inherit configurations from root and C.
 - **.cnf**, the Configuration file stores predefined variables. It accepts syntax from standard **.conf**, **.env** or **.ini** files.
 - Alternatively, you may use the **.env** or **.ini** file extensions.
 - The file may or may not include section names.
+
+<br>
 
 *Example Hierarchy*
 
