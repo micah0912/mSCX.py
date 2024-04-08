@@ -155,6 +155,8 @@ __custom_var_Name__=__Custom_Var_Value__
 	1. **.apv** 
 	2. **.ign**
 
+<br>
+
 *Example Hierarchy*
 
 ```
@@ -186,11 +188,11 @@ __custom_var_Name__=__Custom_Var_Value__
 ### Custom - Filter
 ---
 
- - **SCX** enables you to modify results by adding filter listener throughs [spairaru.py](https://github.com/etrotech/spairaru.py) framework.
+**SCX** enables you to modify results by adding filter listener throughs [spairaru.py](https://github.com/etrotech/spairaru.py) framework.
 
 <br>
 
-[E] **SourceCodeDocumentFilter** : 
+**SourceCodeDocumentFilter** : 
 - Contains Filters used to manage document.
 
 <br>
